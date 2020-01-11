@@ -1,0 +1,5 @@
+C:\Users\Tee\source\repos\MultiThreading-Example\MultiThreading-Example\bin\Debug\MultiThreading-Example.exe.config
+C:\Users\Tee\source\repos\MultiThreading-Example\MultiThreading-Example\bin\Debug\MultiThreading-Example.exe
+C:\Users\Tee\source\repos\MultiThreading-Example\MultiThreading-Example\bin\Debug\MultiThreading-Example.pdb
+C:\Users\Tee\source\repos\MultiThreading-Example\MultiThreading-Example\obj\Debug\MultiThreading-Example.exe
+C:\Users\Tee\source\repos\MultiThreading-Example\MultiThreading-Example\obj\Debug\MultiThreading-Example.pdb
